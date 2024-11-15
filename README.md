@@ -21,6 +21,7 @@ Analýza byla provedena na datech zahrnujících:
 - Vítězné hry
 - Žánry
 - Vývojáře a vydavatele
+- Zemi původu vývojáře
 
 Výsledky analýzy poskytují přehled o vývoji herních trendů v čase a ukazují, které žánry nebo vývojáři dominují v oblasti ocenění.
 
