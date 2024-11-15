@@ -29,4 +29,3 @@ Dataset a analýzu lze využít k:
 - Porozumění historickým trendům ocenění Hra roku.
 - Zkoumání dominantních žánrů a vývojářů v herním průmyslu.
 - Porovnávání ocenění z různých organizací.
-- 
