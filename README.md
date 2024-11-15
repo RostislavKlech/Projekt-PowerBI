@@ -1,7 +1,7 @@
 # Analýza ocenění Hra roku
 
 ## O datech
-Dataset použitý v tomto projektu byl manuálně vyscrapován ze stránky [Wikipedia - Seznam ocenění Hra roku](https://en.wikipedia.org/wiki/List_of_Game_of_the_Year_awards). Obsahuje informace o oceněních Hra roku z několika významných zdrojů.
+Dataset použitý v tomto projektu byl vyscrapován ze stránky [Wikipedia - Seznam ocenění Hra roku](https://en.wikipedia.org/wiki/List_of_Game_of_the_Year_awards). Obsahuje informace o oceněních Hra roku z několika významných zdrojů. Manuálně je přidán sloupec **Country**, který odpovídá zemi původu vývojáře.
 
 Data jsou omezena na:
 - Ocenění udělená v letech **2010 až 2023**, nebo
